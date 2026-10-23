@@ -1,0 +1,29 @@
+{
+  "id": "cochlear",
+  "name": "Cochlear Implant Research",
+  "category": "Research · Analog systems",
+  "icon": "wave",
+  "description": "A batteryless, microvolt-level signal conditioning chain for piezoelectric cochlear implants, designed and simulated in LTspice.",
+  "detail": "At SIBDS-IIBC, IIT Guwahati, I also simulated a cochlear beam array operating at different frequencies to investigate frequency-selective responses for hearing assistance. This work is simulation research, not a clinically validated device.",
+  "stack": [
+    "LTspice",
+    "Analog Circuits",
+    "Signal Conditioning"
+  ],
+  "status": "Simulation research",
+  "group": "Research & experiments",
+  "image": "/projects/cochlear.webp",
+  "url": "",
+  "liveUrl": "",
+  "award": "",
+  "featured": true,
+  "evidence": [],
+  "caseStudy": {
+    "problem": "Investigate frequency-selective responses for hearing assistance and microvolt-level signal conditioning.",
+    "contribution": "Simulated a cochlear beam array at different frequencies during research at SIBDS-IIBC, IIT Guwahati.",
+    "approach": "LTspice simulation of a batteryless signal-conditioning chain for piezoelectric cochlear implants.",
+    "outcome": "Frequency-response simulation work; no clinical outcome is claimed.",
+    "limitations": "Simulation research only. Hardware measurements and clinical validation are not provided.",
+    "learning": "A simulated response must be distinguished from measured hardware performance and hearing outcomes."
+  }
+}

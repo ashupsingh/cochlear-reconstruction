@@ -1,0 +1,16 @@
+* Reconstructed illustrative series-RLC resonator bank, 2026-10-23
+* Electrical analogue only: not recovered beam geometry or a clinical device.
+* Three ideal unity-drive channels, Q=5. Voltage across C is the response.
+Vin in 0 AC 1
+R500 in r500 628.318530718
+L500 r500 c500 1
+C500 c500 0 1.01321183642e-07
+R1000 in r1000 1256.63706144
+L1000 r1000 c1000 1
+C1000 c1000 0 2.53302959106e-08
+R2000 in r2000 2513.27412287
+L2000 r2000 c2000 1
+C2000 c2000 0 6.33257397765e-09
+.ac dec 100 10 20000
+.save V(c500) V(c1000) V(c2000)
+.end

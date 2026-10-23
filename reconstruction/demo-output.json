@@ -1,0 +1,29 @@
+{
+  "model": "dimensionless second-order oscillator, not recovered beam geometry",
+  "synthetic_response": [
+    {
+      "frequency_hz": 100,
+      "channel_500_hz": 1.0407636178045334,
+      "channel_1000_hz": 1.0098949511412771,
+      "channel_2000_hz": 1.0024558925782292
+    },
+    {
+      "frequency_hz": 500,
+      "channel_500_hz": 5.0,
+      "channel_1000_hz": 1.3216372009101796,
+      "channel_2000_hz": 1.065152858323015
+    },
+    {
+      "frequency_hz": 1000,
+      "channel_500_hz": 0.3304093002275449,
+      "channel_1000_hz": 5.0,
+      "channel_2000_hz": 1.3216372009101796
+    },
+    {
+      "frequency_hz": 2000,
+      "channel_500_hz": 0.06657205364518844,
+      "channel_1000_hz": 0.3304093002275449,
+      "channel_2000_hz": 5.0
+    }
+  ]
+}
